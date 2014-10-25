@@ -1,0 +1,4 @@
+Building TrafficCoin
+See doc/readme-qt.rst for instructions on building TrafficCoin QT.
+
+See doc/build-*.txt for instructions on building TrafficCoind.
